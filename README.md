@@ -1,6 +1,6 @@
 # GitHub over Tor
 
-So you're an pseudonymous developer like me. You don't want to leak your real identity through your IP address. You also don't want to rely on shoddy VPN services. What to do? Follow this guide to setup GitHub over Tor-tunneled ssh.
+So you're a pseudonymous developer like me. You don't want to leak your real identity through your IP address. You also don't want to rely on shoddy VPN services. What to do? Follow this guide to setup GitHub over Tor-tunneled ssh.
 
 1. Install required software
 
